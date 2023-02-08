@@ -6,7 +6,7 @@
 
 
 
-// If the same function is called again from within a function, it is called a rection
+// If the same function is called again from within a function, it is called a recursion
 
 function factorial (i){
     if(i == 1){
